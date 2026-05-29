@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a02632cdd8f74e74dbf666c2d1d70613
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _color: {fileID: 2800000, guid: 80ab37a9e4f49c842903bb43bdd7bcd2, type: 3}
+  - _Ramp: {fileID: 2800000, guid: 131633c45b26caa4f9673a16077a1970, type: 3}
+  - _Flow: {fileID: 2800000, guid: 0f887c1218c9ff641b128d1ee0c2bd11, type: 3}
+  - _rotatetex: {fileID: 2800000, guid: a99649a3ac7df724eb781c969383e632, type: 3}
+  - _rotmask: {fileID: 2800000, guid: 596678c53fd54a640bf95ba7dfafd092, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
