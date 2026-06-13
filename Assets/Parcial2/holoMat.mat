@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: holoMat
-  m_Shader: {fileID: 4800000, guid: 77d73f8aef1cf754490a0b6a9f04e24d, type: 3}
+  m_Shader: {fileID: 4800000, guid: 7b6a5e58d69d52243b5dc1bec3e7d59d, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
