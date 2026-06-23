@@ -10,6 +10,7 @@ public class vignetteScript : MonoBehaviour
     public Vector2 center;
     public float min;
     public float max;
+    public Texture text;
 
     private void Awake()
     {

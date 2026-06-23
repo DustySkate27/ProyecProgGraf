@@ -111,7 +111,7 @@ Shader "postProcessSurface"
 }
 /*ASEBEGIN
 Version=18900
-363;73;1101;535;681.5292;474.6693;1.6;True;False
+363;73;1101;551;681.5292;487.4693;1.6;False;False
 Node;AmplifyShaderEditor.CommentaryNode;8;-353,-198;Inherit;False;207;161;Camera Needed;1;4;;1,1,1,1;0;0
 Node;AmplifyShaderEditor.TemplateShaderPropertyNode;4;-303,-148;Inherit;False;0;0;_MainTex;Shader;False;0;5;SAMPLER2D;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4
 Node;AmplifyShaderEditor.SamplerNode;5;-82,-147;Inherit;True;Property;_TextureSample0;Texture Sample 0;0;0;Create;True;0;0;0;False;0;False;-1;68c5b03f368c3dc478674151ec7bacd0;68c5b03f368c3dc478674151ec7bacd0;True;0;False;white;Auto;False;Object;-1;Auto;Texture2D;8;0;SAMPLER2D;;False;1;FLOAT2;0,0;False;2;FLOAT;0;False;3;FLOAT2;0,0;False;4;FLOAT2;0,0;False;5;FLOAT;1;False;6;FLOAT;0;False;7;SAMPLERSTATE;;False;5;COLOR;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4
@@ -128,4 +128,4 @@ WireConnection;14;1;6;0
 WireConnection;14;2;15;0
 WireConnection;0;0;14;0
 ASEEND*/
-//CHKSM=B5DEB5091791D9504FB7DA0D38B38B65C5015315
+//CHKSM=D26CE5EFF96CB6A789C9FE5D7974BDC586CE44F9
